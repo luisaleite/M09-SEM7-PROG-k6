@@ -1,0 +1,6 @@
+projectKey=2024-T0003-ES09-G01
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=2024-T0003-ES09-G01
+ceTaskId=fb665ad0-cd48-4c84-a7fe-0b166b5bee87
+ceTaskUrl=http://localhost:9000/api/ce/task?id=fb665ad0-cd48-4c84-a7fe-0b166b5bee87
