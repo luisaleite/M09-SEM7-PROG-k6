@@ -33,4 +33,4 @@ export default function () {
 
 Ao rodar o K6 é gerado esse relatório no terminal, que indica que o teste foi executado com sucesso, sem falhas, e fornece uma visão geral do desempenho do aplicativo durante o teste.
 
-![Descrição da imagem](assets\Untitled.png)
+![Descrição da imagem](assets/Untitled.png)
